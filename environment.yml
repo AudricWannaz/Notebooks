@@ -1,5 +1,5 @@
   
-name: PythonAndPandasForPapyrology
+name: notebook-env
 channels:
   - conda-forge
 dependencies:
