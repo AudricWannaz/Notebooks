@@ -1,5 +1,5 @@
   
-name: PandasPythonPapyri-environment
+name: PythonAndPandasForPapyrology
 channels:
   - conda-forge
 dependencies:
